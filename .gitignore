@@ -1,0 +1,43 @@
+# --- Visual Studio ---
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# --- Build Outputs ---
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+TestResults/
+
+# --- Node.js ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+dist/
+build/
+.env
+
+# --- Revit Specific ---
+*.000*.rvt
+*.000*.rfa
+*.log
+*.slog
+*.addin
+# Only exclude .addin if you want to keep them local, usually they are deployed
+# But sometimes temporary addin files are generated
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Other ---
+.idea/
+.vscode/
+*.bak
+*.tmp

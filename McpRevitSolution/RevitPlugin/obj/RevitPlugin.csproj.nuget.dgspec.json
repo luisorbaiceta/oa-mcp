@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj": {}
+    "c:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj": {
+    "c:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj",
+        "projectUniqueName": "c:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj",
         "projectName": "RevitPlugin",
-        "projectPath": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj",
+        "projectPath": "c:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\RevitPlugin.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\obj\\",
+        "outputPath": "c:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevitPlugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bccb88bfe783f7e7bd2f39c0cdbd6aa29bca48af")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevitPlugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevitPlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

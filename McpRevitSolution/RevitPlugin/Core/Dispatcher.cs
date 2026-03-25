@@ -53,13 +53,17 @@ namespace RevitPlugin.Core
                     var command = (IRevitCommand)Activator.CreateInstance(commandType);
                     var mcpToolAttr = commandType.GetCustomAttribute<McpToolAttribute>();
 
-                    if (mcpToolAttr != null && mcpToolAttr.RequiresTransaction)
+                    if (App.SafeMode)
                     {
-                        if (App.SafeMode)
+                        if (mcpToolAttr.RequiresTransaction || request.CommandName == "ExecuteCSharp")
                         {
-                            request.Tcs.SetResult(new McpResponse { Success = false, Message = $"Safe Mode is enabled. The tool '{request.CommandName}' requires a transaction and is blocked from executing." });
+                            request.Tcs.SetResult(new McpResponse { Success = false, Message = $"Safe Mode is enabled. The tool '{request.CommandName}' is blocked from executing." });
                             continue;
                         }
+                    }
+
+                    if (mcpToolAttr != null && mcpToolAttr.RequiresTransaction)
+                    {
 
                         using (var trans = new Transaction(app.ActiveUIDocument.Document, $"MCP: {request.CommandName}"))
                         {

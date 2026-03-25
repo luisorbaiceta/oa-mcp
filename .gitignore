@@ -6,11 +6,12 @@
 *.suo
 
 # --- Build Outputs ---
-[Bb]in/
-[Oo]bj/
-[Rr]elease/
-[Dd]ebug/
-TestResults/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Rr]elease/
+**/[Dd]ebug/
+**/[Oo]utput/
+**/TestResults/
 
 # --- Node.js ---
 node_modules/

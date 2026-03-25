@@ -4,6 +4,7 @@
 #define RevitAddinsDir "{userappdata}\Autodesk\Revit\Addins\2025"
 
 [Setup]
+AppId={{5C8B2A9E-C0D1-45A2-B6E0-F723E2A3F749}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
@@ -17,6 +18,8 @@ SolidCompression=yes
 ; SetupIconFile=compiler:SetupClassicIcon.ico
 Uninstallable=yes
 UninstallDisplayIcon={app}\RevitPlugin.dll
+PrivilegesRequired=lowest
+ArchitecturesInstallIn64BitMode=x64
 
 [Files]
 ; Revit Plugin DLLs and Addin definition

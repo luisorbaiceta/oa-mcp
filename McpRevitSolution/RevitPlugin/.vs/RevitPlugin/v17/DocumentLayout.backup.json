@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|c:\\users\\luis\\documents\\repos\\revit-mcp\\mcprevitsolution\\revitplugin\\commands\\setelementparametercmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|solutionrelative:commands\\setelementparametercmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|c:\\users\\luis\\documents\\repos\\revit-mcp\\mcprevitsolution\\revitplugin\\commands\\getelementparameterscmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|solutionrelative:commands\\getelementparameterscmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|c:\\users\\luis\\documents\\repos\\revit-mcp\\mcprevitsolution\\revitplugin\\commands\\getelementscmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|solutionrelative:commands\\getelementscmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|c:\\users\\luis\\documents\\repos\\revit-mcp\\mcprevitsolution\\revitplugin\\commands\\createlevelcmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A82CA-ACB4-9C4B-BA7D-D7B647120EF4}|RevitPlugin.csproj|solutionrelative:commands\\createlevelcmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetElementParameterCmd.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\SetElementParameterCmd.cs",
+              "RelativeDocumentMoniker": "Commands\\SetElementParameterCmd.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\SetElementParameterCmd.cs",
+              "RelativeToolTip": "Commands\\SetElementParameterCmd.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:46:37.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetElementsCmd.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\GetElementsCmd.cs",
+              "RelativeDocumentMoniker": "Commands\\GetElementsCmd.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\GetElementsCmd.cs",
+              "RelativeToolTip": "Commands\\GetElementsCmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:33:08.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetElementParametersCmd.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\GetElementParametersCmd.cs",
+              "RelativeDocumentMoniker": "Commands\\GetElementParametersCmd.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\GetElementParametersCmd.cs",
+              "RelativeToolTip": "Commands\\GetElementParametersCmd.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAEwGIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:33:06.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateLevelCmd.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\CreateLevelCmd.cs",
+              "RelativeDocumentMoniker": "Commands\\CreateLevelCmd.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Repos\\revit-mcp\\McpRevitSolution\\RevitPlugin\\Commands\\CreateLevelCmd.cs",
+              "RelativeToolTip": "Commands\\CreateLevelCmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:33:04.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

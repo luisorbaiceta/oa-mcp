@@ -1,0 +1,13 @@
+{
+  "name": "revit-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Autodesk Revit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "zod": "^3.22.4"
+  }
+}
